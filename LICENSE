@@ -1,0 +1,30 @@
+Copyright (c) 2026 V Sathish Kumar. All rights reserved.
+
+This project (source code, documentation, and sample files) is shared
+publicly for portfolio, educational, and evaluation purposes only.
+
+Permission is granted to:
+  - View, read, and study this code
+  - Run it locally for personal, non-commercial evaluation or learning
+  - Reference it (with attribution) when discussing or reviewing the author's work
+
+Permission is NOT granted to:
+  - Use this code, in whole or in part, for any commercial purpose
+  - Redistribute, republish, sublicense, or sell this code or derivative works
+  - Modify and redistribute this code without prior written permission from the author
+
+Any use beyond personal evaluation or educational reference requires
+prior written permission from the author.
+
+This software is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall
+the author be liable for any claim, damages, or other liability arising
+from the use of this software. Note in particular that the HS-6 tariff
+code suggestions this tool produces (whether from the USITC keyword search
+or the AI classification modes) are unverified suggestions for human
+review only, not a legal or binding customs classification -- see the
+README for details.
+
+For permissions beyond the scope above, contact:
+V Sathish Kumar -- https://linkedin.com/in/sathishkumarv024
