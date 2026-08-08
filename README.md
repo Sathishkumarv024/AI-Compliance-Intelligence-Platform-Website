@@ -1,4 +1,4 @@
-# Invoice Compliance Checker
+# Invoice Compliance Checker Backend Process
 
 A Python tool that reads vendor invoices — text PDFs, scanned/photographed invoices, and Excel files — and flags trade-compliance risks automatically: missing required fields, arithmetic errors, and an HS-6 tariff code suggestion per line item (via real GRI-based reasoning, not just a keyword search). Built to run on both desktop Python and Pydroid on Android.
 
